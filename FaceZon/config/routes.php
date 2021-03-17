@@ -9,7 +9,7 @@
         $lesPages['apropos'] = "aproposControleur";
         $lesPages['mentionslegales'] = "mentionslegalesControleur";
         $lesPages['inscription'] = "inscriptionControleur";
-        $lesPages['maintenance'] = "MaintenanceControleur";
+        $lesPages['maintenance'] = "maintenanceControleur";
         $lesPages['connection'] = "connectionControleur";
        
         $contenu = $lesPages['accueil'];

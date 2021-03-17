@@ -1,6 +1,6 @@
 <?php  
     $config['serveur']='localhost';  
-    $config['login'] = 'login8001';  
-    $config['mdp'] ='MPuSQRQPoJcmNWQ';  
-    $config['bd'] = 'dblogin8001';
+    $config['login'] = 'login8074';  
+    $config['mdp'] ='OqmMjfcitjErZlq';  
+    $config['bd'] = 'dblogin8074';
 ?>

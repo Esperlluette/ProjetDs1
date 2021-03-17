@@ -9,7 +9,7 @@ function mentionslegalesControleur(){
     echo 'mentions legales';
    }
 function incrireControleur($twig){
-    echo $twig->render('inscrire.html.twig', array());
+    echo $twig->render('inscriptionControleur.html.twig', array());
 }
    
 ?>
